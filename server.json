@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-02-07T14:21:44.035Z"
+    },
+    {
+      "id": 2,
+      "description": "Design de Logo",
+      "type": "income",
+      "category": "Venda",
+      "price": 8000,
+      "createdAt": "2024-01-20T09:45:12.035Z"
+    },
+    {
+      "id": 3,
+      "description": "Consultoria de Marketing",
+      "type": "income",
+      "category": "Consultoria",
+      "price": 10000,
+      "createdAt": "2024-02-03T16:30:00.035Z"
+    },
+    {
+      "id": 5,
+      "description": "Hospedagem de Site",
+      "type": "outcome",
+      "category": "Despesas Operacionais",
+      "price": 1500,
+      "createdAt": "2024-02-01T08:05:00.035Z"
+    },
+    {
+      "id": 6,
+      "description": "Serviços de Contabilidade",
+      "type": "outcome",
+      "category": "Despesas Administrativas",
+      "price": 2000,
+      "createdAt": "2024-01-25T13:40:00.035Z"
+    },
+    {
+      "id": 6,
+      "description": "Putas",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 9000,
+      "createdAt": "2024-01-25T13:45:00.035Z"
+    },
+    {
+      "id": 6,
+      "description": "Cachaça",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 5000,
+      "createdAt": "2024-01-25T13:25:00.035Z"
+    }
+  ]
+}
