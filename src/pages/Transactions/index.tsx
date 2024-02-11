@@ -11,9 +11,9 @@ import { dateFormatter, priceFormatter } from "../../utils/formater";
 export function Transactions() {
 
   const { transactions } = useContext(TransactionsContext);
-
   return (
     <div>
+
       <Header />
       <Summary />
 
@@ -21,6 +21,7 @@ export function Transactions() {
         <SearchForm />
         <TransactionsTable>
           <tbody>
+
             {transactions.map(transaction => {
               return (
                 <tr key={transaction.id}>
